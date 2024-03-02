@@ -1,2 +1,19 @@
+.moviePic{
+	height: 200px;
+	width: 400px;
+	opacity: 0.8;
+	margin: 25px;
+}
 
-/* Your CSS Code here. */
+.movieDetail{
+	width: 400px;
+	height: 200px;
+	margin: 25px;
+	text-align: justify;
+	font-size: 20px;
+	background-color: black;
+	color: deeppink;
+	border-collapse:25px;
+	padding:20px
+	
+}
